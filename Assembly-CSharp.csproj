@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{55DAE449-EF53-1649-AC8B-C0F251FAAF04}</ProjectGuid>
+    <ProjectGuid>{99217C7D-AF7E-8111-DDF3-CD5A44EE84A9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\ButtonManager.cs" />
      <Compile Include="Assets\Scripts\ObstacleMovement.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\ScoreScript.cs" />
      <Compile Include="Assets\Scripts\Spawnerscript.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -588,31 +589,31 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/33_RiveraMary_Lab08/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/maryv/ITE Central School Work/Game Integration &amp; Testing/Lab08/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
