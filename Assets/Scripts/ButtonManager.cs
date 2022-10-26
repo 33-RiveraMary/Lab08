@@ -10,4 +10,10 @@ public class ButtonManager : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
+    
+    //quit game
+    public void QuitBtn()
+    {
+        Application.Quit();
+    }
 }
